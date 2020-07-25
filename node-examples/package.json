@@ -8,9 +8,5 @@
     "start": "node index"
   },
   "author": "Mushfiqur Rahman",
-  "license": "ISC",
-  "dependencies": {
-    "express" : "^4.17.1",
-    "morgan" : "^1.9.0"
-    }
+  "license": "ISC"
 }
